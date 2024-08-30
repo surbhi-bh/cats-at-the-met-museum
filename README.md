@@ -2,8 +2,9 @@
 
 ## This project is done as part of the Lede Program at Columbia University.
 
-The story webpage is here:surbhi-bh.github.io
-/cats-at-the-met-museum/
+The story webpage is here: [surbhi-bh.github.io
+/cats-at-the-met-museum/](surbhi-bh.github.io
+/cats-at-the-met-museum/)
 
 ### Data sources
 Data for this project is sourced from the API of Metropolitan Museum of Art (The Met), New York. In 2020, The Met made details of over 470,000 artworks in their collection publicly accessible through an API, along with high-resolution images of the works. API documentation can be accessed here: https://metmuseum.github.io/
